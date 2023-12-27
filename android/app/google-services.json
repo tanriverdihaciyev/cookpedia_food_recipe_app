@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "896172291770",
+    "project_id": "cookpedia-foodrecipe",
+    "storage_bucket": "cookpedia-foodrecipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896172291770:android:e308102e9dbcadf945b483",
+        "android_client_info": {
+          "package_name": "com.example.cookpedia_foodrecipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896172291770-uukabfiafqlf5093sddp0so76rbiji96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cookpedia_foodrecipe_app",
+            "certificate_hash": "6b45dfb068bcd2fc13e58858870a1c3cd9c534a0"
+          }
+        },
+        {
+          "client_id": "896172291770-nc25l4oil6c0hd7oia37k2kuea3pbo0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8OnmJ2coN8T_N_8k9s2QjrpFH9pJG8Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896172291770-nc25l4oil6c0hd7oia37k2kuea3pbo0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
